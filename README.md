@@ -15,4 +15,6 @@ Projects list:
 * Web browser
 * Stock trading bot
 
-Even more ideas: https://github.com/danistefanovic/build-your-own-x
+More links: 
+* https://github.com/danistefanovic/build-your-own-x
+* http://rosettacode.org/wiki/Category:Programming_Tasks
