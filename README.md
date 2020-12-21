@@ -14,3 +14,5 @@ Projects list:
 * Key-value store web API
 * Web browser
 * Stock trading bot
+
+Even more ideas: https://github.com/danistefanovic/build-your-own-x
